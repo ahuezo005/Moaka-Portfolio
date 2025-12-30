@@ -14,9 +14,9 @@
     "clsx": "^2.1.1",
     "framer-motion": "11.0.8",
     "next": "14.2.0",
-    "next-sanity": "^11.6.8",
-    "react": "18.2.0",
-    "react-dom": "18.2.0",
+    "next-sanity": "^9.4.7",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "sanity": "^4.18.0",
     "styled-components": "^6.1.19",
     "tailwind-merge": "^2.2.0"
