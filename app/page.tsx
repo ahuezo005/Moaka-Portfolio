@@ -110,7 +110,7 @@ export default async function homepage() {
                     Have an idea?
                 </p>
                 <h2 className="text-5xl md:text-8xl font-black text-white group-hover:text-black transition-colors">
-                    Let's Create Something Together! 
+                    Let&apos;s Create <br/> Something Together!
                 </h2>
                 <div className="mt-8 inline-block overflow-hidden">
                     <span className="block translate-y-full group-hover:translate-y-0 transition-transform duration-500 text-xl text-white group-hover:text-black font-bold">
